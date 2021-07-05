@@ -1,7 +1,7 @@
 [package]
 name = "ultra_faster_producer"
 version = "0.1.0"
-authors = ["Jefferson Marchetti Ferreira <jefferson.marchetti@xpi.com.br>"]
+authors = ["Jefferson Marchetti Ferreira <jeffersonm.ferreira@gmail.com>"]
 readme = "README.md"
 license = "MIT"
 description = "Rust wrapper for librdkafka"
